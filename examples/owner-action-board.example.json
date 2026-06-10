@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "owner-action-001",
+      "project": "example-project",
+      "status": "open",
+      "needed_by": "2026-06-17",
+      "where": "Google Search Console",
+      "what_to_get": "Performance export for the last 14 days",
+      "why_it_matters": "Needed to decide whether to continue the experiment.",
+      "blocking": true
+    },
+    {
+      "id": "owner-action-002",
+      "project": "example-project",
+      "status": "open",
+      "needed_by": "2026-06-12",
+      "where": "Product Hunt or GitHub",
+      "what_to_get": "Approve public distribution channel.",
+      "why_it_matters": "Needed before the agent can start a real measurement window.",
+      "blocking": true
+    }
+  ]
+}
+

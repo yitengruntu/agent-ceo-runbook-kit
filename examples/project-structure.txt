@@ -1,0 +1,15 @@
+project/
+  README.md
+  ops/
+    OPERATING_RULES.md
+    RUNBOOK.md
+    DELEGATION_POLICY.md
+    MILESTONES.md
+  data/
+    backlog.json
+    experiments.json
+    metrics/
+  decisions/
+    DECISIONS.md
+  reports/
+

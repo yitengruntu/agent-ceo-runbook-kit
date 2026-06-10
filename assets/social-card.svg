@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F5F7F3"/>
+  <path d="M80 80H1120" stroke="#D7DED7" stroke-width="2"/>
+  <path d="M80 550H1120" stroke="#D7DED7" stroke-width="2"/>
+  <rect x="690" y="98" width="370" height="430" rx="26" fill="#FBFCF9" stroke="#BCC8C0" stroke-width="2"/>
+  <path d="M690 158H1060" stroke="#D7DED7" stroke-width="2"/>
+  <circle cx="726" cy="128" r="8" fill="#CDD6CF"/>
+  <circle cx="754" cy="128" r="8" fill="#CDD6CF"/>
+  <circle cx="782" cy="128" r="8" fill="#CDD6CF"/>
+  <text x="815" y="134" fill="#58635F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" letter-spacing="2">CEO AGENT RUN</text>
+  <rect x="728" y="196" width="294" height="82" rx="18" fill="#FFFFFF" stroke="#D7DED7" stroke-width="2"/>
+  <text x="752" y="231" fill="#111816" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">01 Read project state</text>
+  <text x="752" y="256" fill="#58635F" font-family="Arial, Helvetica, sans-serif" font-size="15">Rules, blockers, live experiments.</text>
+  <rect x="728" y="302" width="294" height="82" rx="18" fill="#FFFFFF" stroke="#D7DED7" stroke-width="2"/>
+  <text x="752" y="337" fill="#111816" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">02 Pick one checkpoint</text>
+  <text x="752" y="362" fill="#58635F" font-family="Arial, Helvetica, sans-serif" font-size="15">Small enough to validate and commit.</text>
+  <rect x="728" y="408" width="294" height="82" rx="18" fill="#111816"/>
+  <text x="752" y="443" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">03 Stop at real blockers</text>
+  <text x="752" y="468" fill="#D7DED7" font-family="Arial, Helvetica, sans-serif" font-size="15">Data, accounts, payment, owner action.</text>
+  <text x="108" y="132" fill="#58635F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" letter-spacing="3">AGENT OPERATIONS KIT</text>
+  <text x="108" y="240" fill="#111816" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900">Stop AI agents</text>
+  <text x="108" y="326" fill="#111816" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900">from doing</text>
+  <text x="108" y="412" fill="#111816" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900">fake progress.</text>
+  <text x="112" y="474" fill="#58635F" font-family="Arial, Helvetica, sans-serif" font-size="28">A runbook for bounded autonomous work.</text>
+  <rect x="108" y="508" width="268" height="58" rx="10" fill="#0D7F69"/>
+  <text x="137" y="545" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Agent CEO Runbook Kit</text>
+</svg>
