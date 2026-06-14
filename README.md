@@ -12,6 +12,10 @@ Download ZIP:
 
 https://fix-logic.com/agent-ceo-runbook-kit/Agent-CEO-Runbook-Kit-v0.1.zip
 
+Product Hunt launch pack:
+
+[`launch/product-hunt.md`](launch/product-hunt.md)
+
 ## What It Solves
 
 Long-running agents can keep moving even when the next useful step is actually data, account access, payment setup, or a human decision.
@@ -37,6 +41,10 @@ Then copy the owner-action example:
 
 [`examples/owner-action-board.example.json`](examples/owner-action-board.example.json)
 
+Open a feedback issue:
+
+https://github.com/yitengruntu/agent-ceo-runbook-kit/issues/new?template=feedback.md
+
 ## Included Files
 
 ```text
@@ -52,6 +60,8 @@ examples/
   project-structure.txt
 downloads/
   Agent-CEO-Runbook-Kit-v0.1.zip
+launch/
+  product-hunt.md
 ```
 
 ## What This Is Not
@@ -74,4 +84,3 @@ Stop when:
 ## Validation
 
 This project is being tested as a short-cycle demand experiment. The first decision window starts only after a deliberate distribution event, not merely because the page exists.
-
